@@ -244,7 +244,7 @@ function indiaCurrent() {
     <button class="btn sm">Подключить</button>
   </section>
   <section class="im-sec alt">
-    <div>${ILL.lineBrowser()}</div>
+    <div>${ILL.supplier()}</div>
     <div><h2>Работаем только с проверенными поставщиками</h2><ul>
       <li>Комплексное решение подбора поставщиков</li><li>Индивидуальный подход в выстраивании торговых связей</li>
       <li>Безопасные расчеты и юридическое сопровождение</li><li>Гибкий подход в выстраивании долгосрочных отношений</li></ul></div>
@@ -252,10 +252,10 @@ function indiaCurrent() {
   <section class="im-sec tight" style="background:#F7F7F7">
     <div><h2>Прозрачный и понятный подход</h2><ul>
       <li>Проверенна информация о поставщиках-производителях</li><li>Актуальные цены</li><li>Детальная спецификация на товары</li></ul></div>
-    <div style="text-align:right">${ILL.lineDoc()}</div>
+    <div style="text-align:right">${ILL.transparent()}</div>
   </section>
   <section class="im-sec mint tight">
-    <div>${ILL.lineChart()}</div>
+    <div>${ILL.services()}</div>
     <div><h2>Полный спектр услуг, покрывающий все потребности</h2><ul>
       <li>Организация и обеспечение переговоров</li><li>Юридическое сопровождение</li><li>Аудит производства</li><li>Сюрвейер товаров</li>
       <li>Сертификация</li><li>Доставка образцов товаров</li><li>Логистика - оценка, организация, контроль</li><li>Безопасные взаиморасчеты</li><li>Страхование</li></ul></div>
@@ -274,7 +274,7 @@ function indiaNew() {
     <button class="btn sm">Оставить заявку</button>
   </section>
   <section class="im-sec alt">
-    <div>${ILL.lineBrowser()}</div>
+    <div>${ILL.benefits()}</div>
     <div><h2>Преимущества сервиса</h2><ul>
       <li>Полный цикл сделки от подбора до логистики и расчетов</li><li>3000+ проверенных поставщиков в базе</li>
       <li>Доступность для всех категорий товаров</li><li>Поддержка на русском, английском и хинди</li>
@@ -289,10 +289,10 @@ function indiaNew() {
         <li style="font-size:15px;font-weight:600;margin-bottom:12px">Сделка → <span style="font-weight:400">помощь в организации переговоров, логистики, расчётов</span></li>
       </ol>
       <p style="margin:18px 0 0;font-size:15px">Персональный менеджер на всех этапах. Оплата — по факту сделки.</p></div>
-    <div style="text-align:right">${ILL.lineSteps()}</div>
+    <div style="text-align:right">${ILL.steps()}</div>
   </section>
   <section class="im-sec mint tight">
-    <div>${ILL.lineRuble()}</div>
+    <div>${ILL.price()}</div>
     <div><h2>Сколько стоит услуга</h2>
       <div style="font-size:30px;font-weight:600;margin:-4px 0 4px">5000 ₽</div>
       <div style="font-size:15px;margin-bottom:18px">— только при заключении договора поставки.</div>
